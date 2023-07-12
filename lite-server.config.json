@@ -1,0 +1,12 @@
+{
+  "port": 1000,
+  "files": [
+    "./dist/web-component/**/*.{html,htm,css,js}"
+  ],
+  "server": {
+    "baseDir": "./dist/web-component"
+  },
+  "ui": {
+    "port": 9990
+  }
+}
